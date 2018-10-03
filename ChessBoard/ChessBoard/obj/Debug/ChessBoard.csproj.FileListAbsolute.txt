@@ -1,0 +1,9 @@
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\msft_\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
